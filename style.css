@@ -1,3 +1,17 @@
-body{
-    background-color: burlywood;
+h1{
+    background: #e0bcbc;
+    color:#555555;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    font:normal 16px Arial, Helvetica, ;
+}
+
+h2{
+    background-color: cadetblue;
+    color:#666666;
+
+    
+    font-family: 'Amatic SC', cursive;
 }
