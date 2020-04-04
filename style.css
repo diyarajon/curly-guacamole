@@ -30,3 +30,18 @@ h2{
     width: 100%;
     margin: auto;
 }
+
+.container p{
+    text-align: center;
+
+}
+
+a:hover{
+    color:red;
+}
+a:active{
+    color:green;
+}
+a:visited{
+    color:yellow;
+}
