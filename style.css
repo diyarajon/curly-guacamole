@@ -14,4 +14,16 @@ h2{
 
     
     font-family: 'Amatic SC', cursive;
+    margin: 0em;
+}
+
+.box-1{
+    background-color: #333;
+    color: #ffffff;
+}
+
+
+.container{
+    width: 500px;
+    margin: auto;
 }
